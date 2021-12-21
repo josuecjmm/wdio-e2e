@@ -1,4 +1,4 @@
-# pilotly-e2e
+# wdio-e2e
 This is a webdriverIO framework project for Test Automation: 
 * Using babel compiler 
 * Capabilities for chromedriver 
